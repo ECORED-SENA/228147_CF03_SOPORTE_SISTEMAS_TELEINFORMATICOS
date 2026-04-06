@@ -145,58 +145,32 @@ export default {
   },
   complementario: [
     {
-      tema: '1.	Mantenimiento de equipos informáticos',
-      referencia:
-        'Musy, J. (2021). Windows PowerShell: <em>Administrar Puestos Cliente Windows</em>. 2.ª edición. ed. Ediciones ENI. Expert IT. Web.',
-      tipo: 'Libro',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_biblioteca_eniEIT35.1POWAW',
+      tema: 'Windows PowerShell',
+      referencia: 'Microsoft. (2023). <i>PowerShell documentation</i>.',
+      tipo: 'Artículo',
+      link: 'https://learn.microsoft.com/en-us/powershell/',
     },
     {
-      tema: '1.	Mantenimiento de equipos informáticos',
+      tema: 'Metodologías de defensa contra virus informáticos',
       referencia:
-        'Medina Arteaga, F y Ruiz Pernett, J. (2018). <em>Diseño de un sistema de gestión de mantenimiento asistido por ordenador (GMAO) como herramienta web para gestionar solicitudes de mantenimiento y la toma de decisiones en la división de apoyo logístico de la </em>Universidad de Córdoba.',
-      tipo: 'Trabajo de grado - Pregrado',
-      link: 'https://repositorio.unicordoba.edu.co/handle/ucordoba/731',
-    },
-    {
-      tema: '1.	Mantenimiento de equipos informáticos',
-      referencia:
-        'Chilan Intriago, B. D. y Macías Arias, E.J. (2014). Estudio de metodologías para defensa contra virus informáticos que pueden dañar el equipo de cómputo. <em>Sinapsis: la Revista Científica del ITSUP 2.5</em>.',
+        'National Institute of Standards and Technology (NIST). (2020). <i>Guide to malware incident prevention and handling for desktops and laptops (SP 800-83)</i>.',
       tipo: 'Artículo',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1i756fj/TN_cdi_dialnet_primary_oai_dialnet_unirioja_es_ART0001510067',
+        'https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-83r1.pdf',
     },
     {
-      tema: '1.	Mantenimiento de equipos informáticos',
-      referencia:
-        'Lenovo Support CO. (s.f.). <em>Mantener su computadora limpia: computadoras portátiles, computadoras de escritorio todo en uno, Tiny-In-One y monitores</em>. Lenovo Support CO.',
-      tipo: 'Página Web',
-      link: 'https://support.lenovo.com/co/es/solutions/ht035676',
+      tema: 'Microsoft Azure',
+      referencia: 'Microsoft. (2024). <i>Azure architecture center</i>.',
+      tipo: 'Artículo',
+      link: 'https://learn.microsoft.com/en-us/azure/architecture/',
     },
     {
-      tema: '1.	Mantenimiento de equipos informáticos',
+      tema: 'Gestión de riesgos y ciberseguridad organizacional',
       referencia:
-        'Microsoft. (s.f.). <em>Sugerencias para mejorar el rendimiento del PC en Windows</em>. Microsoft.',
-      tipo: 'Página Web',
+        'Banco Interamericano de Desarrollo (BID). (2021). <i>Gestión de riesgos cibernéticos en entornos de tecnologías operativas (OT): guía para juntas directivas</i>.',
+      tipo: 'Articulo',
       link:
-        'https://support.microsoft.com/es-es/windows/sugerencias-para-mejorar-el-rendimiento-del-pc-en-windows-b3b3ef5b-5953-fb6a-2528-4bbed82fba96',
-    },
-    {
-      tema: '1.	Mantenimiento de equipos informáticos',
-      referencia:
-        'Philippe. P. (2021). <em>Microsoft Azure: gestione su sistema de información en la nube</em>. Ediciones ENI, 2021. Recursos Informáticos. Web.',
-      tipo: 'Libro',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_biblioteca_eniEPT3AZWIN',
-    },
-    {
-      tema: '1.	Mantenimiento de equipos informáticos',
-      referencia:
-        'Martín Martín-Pozuelo, J M. (2007). <em>Instalación y mantenimiento de equipos y sistemas informáticos</em>. Alfaomega Grupo Editor.',
-      tipo: 'Libro',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000055141',
+        'https://publications.iadb.org/publications/spanish/document/Gestion-de-riesgos-ciberneticos-en-entornos-de-tecnologias-operativas-OT-guia-para-juntas-directivas.pdf',
     },
   ],
   glosario: [
@@ -213,7 +187,7 @@ export default {
     {
       termino: 'Archivos temporales',
       significado:
-        'un archivo temporal es creado por el <em>software</em> con el fin de contener información de forma transitoria durante el tiempo que nos encontramos creando un archivo estándar',
+        'un archivo temporal es creado por el <em>software</em> con el fin de contener información de forma transitoria durante el tiempo que nos encontramos creando un archivo estándar.',
     },
     {
       termino: 'BIOS',

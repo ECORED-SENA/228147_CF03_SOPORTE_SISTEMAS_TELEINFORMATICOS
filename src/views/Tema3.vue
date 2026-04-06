@@ -6,84 +6,79 @@
       .titulo-principal__numero
         span 3
       h1 Elementos de limpieza para mantenimiento de equipos
-    
     .BGM10.px-md-5.px-4
       figure(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img01.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img01.png' alt="")
       .row.justify-content-center
         .col-lg-10.img-02
           .tarjeta.BG11.p-4.mb-4
             p.text-center.mb-0 Para estos elementos es preciso tener en cuenta lo siguiente:
-
           SlyderF(columnas="col-lg-6 col-xl-4")
             .tarjeta.BG09.h-100.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src='@/assets/curso/tema3/img02.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img02.svg' alt="")
               p.text-center.mb-0 El mantenimiento suele enfatizar en los programas de monitoreo de condiciones tales como vibración, temperatura (motores, rodamientos), inspecciones en marcha y otros.
             .tarjeta.BG09.h-100.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src='@/assets/curso/tema3/img03.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img03.svg' alt="")
               p.text-center.mb-0 Los resultados del monitoreo de la condición del equipo pueden depender de la limpieza del equipo.
             .tarjeta.BG09.h-100.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src='@/assets/curso/tema3/img04.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img04.svg' alt="")
               p.text-center.mb-0 La vibración alta puede provenir de un perno de sujeción suelto, que a veces no se puede inspeccionar debido a la acumulación de desechos encima.
             .tarjeta.BG09.h-100.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src='@/assets/curso/tema3/img05.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img05.svg' alt="")
               p.text-center.mb-0 Es posible que la lectura de las temperaturas del núcleo del motor no sea precisa debido a la acumulación alrededor de la carcasa y las aletas de enfriamiento.
             .tarjeta.BG09.h-100.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src='@/assets/curso/tema3/img06.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img06.svg' alt="")
               p.text-center.mb-0 Existe una alta posibilidad de contaminación por aceite revisando las varillas medidoras o agregando aceite cuando hay acumulación de polvo y escombros.
             .tarjeta.BG09.h-100.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src='@/assets/curso/tema3/img07.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img07.svg' alt="")
               p.text-center.mb-0 Un protector de acoplamiento sucio puede impedir que el inspector se dé cuenta de un sello roto recientemente.
             .tarjeta.BG09.h-100.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src='@/assets/curso/tema3/img08.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img08.svg' alt="")
               p.text-center.mb-0 Los esfuerzos de limpieza de equipos/componentes deben estar presentes en los horarios de parada o cierre.
             .tarjeta.BG09.h-100.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src='@/assets/curso/tema3/img09.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img09.svg' alt="")
               p.text-center.mb-0 Las inspecciones sobre la marcha siempre deben incluir la verificación de la limpieza del equipo.
             .tarjeta.BG09.h-100.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src='@/assets/curso/tema3/img10.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img10.svg' alt="")
               p.text-center.mb-0 El mantenimiento de los equipos debe estar programado durante los días de inactividad por el área encargada.
             .tarjeta.BG09.h-100.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src='@/assets/curso/tema3/img11.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img11.svg' alt="")
               p.text-center.mb-0 La responsabilidad de mantener limpio el equipo es de los operadores.
             .tarjeta.BG09.h-100.p-4
               .row.justify-content-center.mb-3
                 .col-5
-                  img(src='@/assets/curso/tema3/img12.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img12.svg' alt="")
               p.text-center.mb-0 Se programan las limpiezas con una orden de trabajo de mantenimiento de equipos.
-
     separador
     #t_3_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.1 Características
-    
     p.mb-5(data-aos="fade-right") La frecuencia de limpieza de su computadora varía según diferentes factores. Tenga en cuenta las siguientes condiciones de su computadora para ayudar a determinar con qué frecuencia limpiarla:
-
     .tarjeta.BGIMG04.p-lg-5.p-4.mb-5(data-aos="zoom-in")
       .tarjeta.tarjeta--blanca.p-4
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema3/img13.png' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img13.png' alt="")
             .col-lg-6
               .h4.mb-3 ¿Dónde está ubicada la computadora?
               ul.lista-ul--color.lista-ul--separador
@@ -101,7 +96,7 @@
                   | En ambiente escolar.
           .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema3/img14.png' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img14.png' alt="")
             .col-lg-6
               .h4.mb-3 Entorno informático
               .h4 NO:
@@ -126,7 +121,7 @@
                   | Comer o beber al lado de la computadora.
           .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema3/img15.png' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img15.png' alt="")
             .col-lg-6
               .h4.mb-3 ¿Quién la usa?
               ul.lista-ul--color.lista-ul--separador
@@ -142,11 +137,9 @@
                 li(style="margin-bottom: 2px")
                   i.fas.fa-check-circle.t-ac
                   | Más de una persona usa la computadora.
-
     .row.justify-content-center.mb-5
       .col-auto.BGR01.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Sugerencias a seguir al limpiar los componentes o periféricos de la computadora y consejos para ayudar a mantener la computadora limpia:
-    
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.order-lg-1.order-2
         ul.lista-ul--color.lista-ul--separador
@@ -172,11 +165,10 @@
             i.fas.fa-check-circle.t-ac
             | Al limpiar, tenga cuidado de no ajustar accidentalmente ninguna perilla o control.
       .col-lg-5.col-10.px-5.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img16.svg' alt="Imagen decorativa")
-
+        img(src='@/assets/curso/tema3/img16.svg' alt="")
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.px-5.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img17.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img17.svg' alt="")
       .col-lg-7
         ul.lista-ul--color.lista-ul--separador
           li(style="margin-bottom: 2px" data-aos="fade-left")
@@ -194,17 +186,16 @@
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
             | No fumar cerca de la computadora.
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Herramientas de limpieza
-
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Herramientas de limpieza
     .BGM03.px-md-5.px-4.pb-4.mb-5 
       .row.justify-content-center.py-5
         .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
           .h4.text-center.mb-0 Tener en cuenta
-      
       .row.justify-content-center
         .col-lg-10
           PasosA.color-acento-contenido(tipo="n")
@@ -213,10 +204,10 @@
                 .h4 Paño
                 p.mb-0 Un paño de algodón es la mejor herramienta para frotar los componentes de la computadora. Las toallas de papel se pueden usar con la mayoría de los accesorios, pero siempre recomendamos usar un paño siempre que sea posible. Sin embargo, solo use un paño cuando limpie componentes como la carcasa, la unidad, el <i>mouse</i> y el teclado. No use un paño para limpiar ningún circuito, como la RAM o la placa base.
               .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-                img(src='@/assets/curso/tema3/img18.svg' alt="Imagen decorativa")
+                img(src='@/assets/curso/tema3/img18.svg' alt="")
             .row.justify-content-center.align-items-center
               .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-                img(src='@/assets/curso/tema3/img19.svg' alt="Imagen decorativa")
+                img(src='@/assets/curso/tema3/img19.svg' alt="")
               .col-lg-9.text-start(data-aos="fade-left")
                 .h4 Agua o alcohol isopropílico
                 p.mb-0 Al humedecer un paño, es mejor usar agua o alcohol isopropílico. Otros solventes pueden ser malos para los plásticos usados con su computadora.
@@ -225,10 +216,10 @@
                 .h4 Aspiradora portátil
                 p.mb-0 Aspirar el polvo, la suciedad, el cabello, las partículas de cigarrillos y otras partículas de una computadora puede ser uno de los mejores métodos para limpiar una computadora. Sin embargo, no use una aspiradora que se conecte a la pared ya que genera mucha electricidad estática que daña su computadora.
               .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-                img(src='@/assets/curso/tema3/img20.svg' alt="Imagen decorativa")
+                img(src='@/assets/curso/tema3/img20.svg' alt="")
             .row.justify-content-center.align-items-center
               .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-                img(src='@/assets/curso/tema3/img21.svg' alt="Imagen decorativa")
+                img(src='@/assets/curso/tema3/img21.svg' alt="")
               .col-lg-9.text-start(data-aos="fade-left")
                 .h4 Bastoncillos de algodón
                 p.mb-0 Los bastoncillos de algodón humedecidos con alcohol isopropílico o agua son herramientas excelentes para limpiar áreas de difícil acceso en el teclado, el <i>mouse</i> y otros lugares.
@@ -237,18 +228,19 @@
                 .h4 Hisopos de espuma
                 p.mb-0 Siempre que sea posible, es mejor utilizar hisopos que no suelten pelusa, como los hisopos de espuma.
               .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-                img(src='@/assets/curso/tema3/img22.svg' alt="Imagen decorativa")
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Limpieza de caja
-
+                img(src='@/assets/curso/tema3/img22.svg' alt="")
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Limpieza de caja
     .BGIMG06.px-md-5.px-4.pb-4.mb-5 
       .row.justify-content-center.mb-5
         .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
           .h4.text-center.mb-0 Procedimiento
-      
+      figure.mb-5(data-aos="fade-right")
+          img(src="@/assets/curso/tema3/img60.svg" style="max-width: 460px").m-auto
       .row.justify-content-center
         .col-lg-10
           .BGA04.row.mb-2(data-aos="fade-right")
@@ -293,19 +285,18 @@
             .col
               .p-4
                 p.mb-0 Si está buscando pasos para limpiar el interior de la computadora, consulte la sección de limpieza de la placa base.
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Limpieza de CD-ROM, DVD y otras unidades de disco
-    
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Limpieza de CD-ROM, DVD y otras unidades de disco
     .row.justify-content-center.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Procedimiento
-
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img24.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img24.svg' alt="")
       .col-lg-7(data-aos="fade-left")
         ul.lista-ul--color.lista-ul--separador
           li(style="margin-bottom: 2px" data-aos="fade-left")
@@ -313,53 +304,49 @@
             | Una unidad de CD-ROM sucia u otras unidades de disco pueden causar errores de lectura al leer discos. 
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
-            p.mb-0 Estos errores de lectura podrían causar problemas de instalación de #[em software] o problemas durante la ejecución del programa
+            p.mb-0 Estos errores de lectura podrían causar problemas de instalación de #[em software] o problemas durante la ejecución del programa.
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
             | Para limpiar la unidad de CD-ROM, se recomienda comprar un limpiador de CD-ROM en su distribuidor local de computadoras. 
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
             | El uso de un limpiador de CD-ROM debería limpiar suficientemente el láser de CD-ROM del polvo, la suciedad y el pelo.
-
     p.mb-5(data-aos="fade-right") Paño humedecido con agua para limpiar la bandeja:
-
     .row.justify-content-start.mb-5
       .col-auto.BGR13.px-4.py-2(data-aos="fade-left")
         .h4.text-white.text-center.mb-0 Procedimiento
-    
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-4         
         .BG05
           .row.align-items-end
             .col-12
-              img(src='@/assets/curso/tema3/img25.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img25.jpg' alt="")
             .col-lg-2.d-lg-flex.d-none.px-5.img-04.pe-4
-              img(src='@/assets/curso/tema3/img27.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img27.svg' alt="")
           .p-4
             p.mb-0 Asegúrese de que la bandeja se seque por completo después de limpiarla antes de volver a colocarla en la unidad.
       .col-lg-6.mb-lg-0.mb-4
         .BG01
           .row.align-items-end
             .col-12
-              img(src='@/assets/curso/tema3/img26.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img26.jpg' alt="")
             .col-lg-2.d-lg-flex.d-none.px-5.img-05.pe-4
-              img(src='@/assets/curso/tema3/img27.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img27.svg' alt="")
           .p-4
             p.mb-0 Consulte la recomendación de limpieza de discos para conocer más pasos sobre la limpieza de cada uno de sus CD.
-    
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Limpieza de CD, DVD y otros discos
-    
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Limpieza de CD, DVD y otros discos
     .row.justify-content-center.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Procedimiento
-
     .BGIMG03.px-md-5.px-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema3/img28.png' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img28.png' alt="")
         .col-lg-8(data-aos="fade-left")
           SlyderF.mb-5(columnas="col-lg-6")
             .tarjeta.color-secundario.p-4.h-100
@@ -370,16 +357,15 @@
               p.text-center.mb-0 Cuando limpie un disco, frote contra las pistas, comenzando desde la mitad del disco y limpiando hacia el lado exterior.
             .tarjeta.color-secundario.p-4.h-100
               p.text-center.mb-0 Nunca limpie con las huellas; si lo hace, podría rayar más el disco.
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Limpieza de disco duro
-    
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Limpieza de disco duro
     .row.justify-content-start.mb-5
       .col-auto.BGR13.px-4.py-2(data-aos="fade-left")
         .h4.text-white.text-center.mb-0 Procedimiento
-
     .row.justify-content-center.mb-5
       .col-lg-6.col-10.mb-4
         .tarjeta.BG04.hg-01(data-aos="fade-right")
@@ -417,19 +403,18 @@
             .col
               .p-3
                 p.mb-0 Consulte nuestra sección de solución de problemas básicos para conocer los pasos de su sistema operativo para ayudar a mejorar el rendimiento de la computadora.
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Limpieza de auriculares
-
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Limpieza de auriculares
     .row.justify-content-center.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Procedimiento
-      
-    .row.justify-content-center.mb-5
-      .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img29.png' alt="Imagen decorativa")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5.col-10.mb-lg-0(data-aos="fade-right")
+        img(src='@/assets/curso/tema3/img29.png' alt="")
       .col-lg-7(data-aos="fade-left")
         ul.lista-ul--color.lista-ul--separador
           li(style="margin-bottom: 2px" data-aos="fade-left")
@@ -450,26 +435,24 @@
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
             | Si diferentes estudiantes usan los mismos auriculares, pídeles que usen sus propios auriculares, coloque bolsas sobre los auriculares o unos auriculares que se puedan limpiar con agua tibia después de cada uso.
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Limpieza del teclado
-    
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Limpieza del teclado
     figure(data-aos="fade-left")
-      img(src='@/assets/curso/tema3/img30.png' alt="Imagen decorativa")
+      img(src='@/assets/curso/tema3/img30.png' alt="")
     .row.justify-content-center
       .col-lg-10.img-02
         .tarjeta.BG11.p-4.mb-4
-          p.text-center.mb-0 Estos pasos son para limpiar un teclado de escritorio. Para computadoras portátiles, consulte: cómo limpiar una computadora portátil:
-    
+          p.text-center.mb-0 #[b Estos pasos son para limpiar un teclado de escritorio. Para computadoras portátiles, consulte: cómo limpiar una computadora portátil:]
     .row.justify-content-center.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Procedimiento
-    
     .row.justify-content-center.mb-4
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img31.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img31.png' alt="")
       .col-lg-7(data-aos="fade-left")
         .BGA04.row.mb-2(data-aos="fade-left")
           .col-2.BG05.p-lg-4.p-2
@@ -495,20 +478,16 @@
           .col
             .p-4
               p.mb-0 No desenchufar el teclado puede causar otros problemas en la computadora, ya que puede presionar teclas que hacen que la computadora realice una tarea que no desea que realice.
-
     .BGA04.row.mb-5(data-aos="fade-right")
       .col-lg-1.col-2.BG05.p-lg-4.p-2
         p.text-center.mb-0(style="font-weight: 900; font-size: 30px !important") 05
       .col
         .p-4
           p.mb-0 Mucha gente limpia el teclado dándole la vuelta y sacudiéndolo. Un método más eficiente es utilizar aire comprimido. El aire comprimido es aire comprimido contenido en una lata con una boquilla muy larga. Para limpiar un teclado con aire comprimido, apunte entre las teclas y elimine todo el polvo y la suciedad. También se puede usar una aspiradora, pero asegúrese de que el teclado no tenga teclas sueltas que puedan ser succionadas por la aspiradora.
-
     .row.justify-content-center.mb-5
       .col-auto.BGR13.px-4.py-2(data-aos="fade-left")
         .h4.text-white.text-center.mb-0 Limpiar el teclado más extensamente, retirar las teclas del teclado
-    
     p.mb-5(data-aos="fade-right") Cómo quitar las teclas de un teclado:
-
     .BGIMG03.px-md-5.px-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
@@ -520,17 +499,14 @@
             .tarjeta.color-secundario.p-4.h-100
               p.text-center.mb-0 Como se menciona en nuestros consejos generales de limpieza, nunca rocíe ningún líquido sobre el teclado.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema3/img32.png' alt="Imagen decorativa")
-
+          img(src='@/assets/curso/tema3/img32.png' alt="")
     p.mb-5(data-aos="fade-right") Sustancia derramada en el teclado: 
-
     .row.justify-content-center.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Procedimiento
-
     .row.justify-content-center.mb-4
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img33.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img33.png' alt="")
       .col-lg-8(data-aos="fade-left")
         ul.lista-ul--color.lista-ul--separador
           li(style="margin-bottom: 2px" data-aos="fade-left")
@@ -548,7 +524,6 @@
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
             | Después de limpiar el teclado, déjelo bocabajo durante, al menos, dos días para que se seque.   
-    
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         ul.lista-ul--color.lista-ul--separador
@@ -562,20 +537,19 @@
             i.fas.fa-check-circle.t-ac
             | Finalmente, si el teclado aún funciona, pero permanece sucio o pegajoso antes de desecharlo como último recurso, intenta lavarlo en el lavavajillas.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img34.png' alt="Imagen decorativa")
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Limpieza de LCD/LED
-    
+        img(src='@/assets/curso/tema3/img34.png' alt="")
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Limpieza de LCD/LED
     .row.justify-content-center.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Procedimiento
-
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img35.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img35.svg' alt="")
       .col-lg-8
         .BGA04.row.mb-2(data-aos="fade-left")
           .col-lg-2.col-3.BG05.p-4
@@ -613,13 +587,10 @@
           .col
             .p-4
               p.mb-0 El alcohol isopropílico se utiliza para limpiar monitores LCD y LED antes de salir de fábrica.
-
     p.mb-5(data-aos="fade-right") Limpieza de monitores y pantallas LCD, CRT:
-
     .row.justify-content-start.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Procedimiento
-
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-lg-1.order-2
         ul.lista-ul--color.lista-ul--separador
@@ -636,24 +607,21 @@
             i.fas.fa-check-circle.t-ac
             | Las rejillas de ventilación del monitor obstruidas pueden hacer que el monitor se sobrecaliente o incluso se incendie.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img36.png' alt="Imagen decorativa")
-
+        img(src='@/assets/curso/tema3/img36.png' alt="")
     .row.justify-content-center.mb-5
       .col-lg-10.BGIMG07.p-2(data-aos="fade-left")
         .row.justify-content-between.align-items-center
           .col-lg-2.d-lg-flex.d-none.px-xl-5.px-4
-            img(src='@/assets/curso/tema3/img37.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img37.svg' alt="")
           .col-lg-9
             .h5.text-white.mb-0 Limpieza de placa base: el polvo y, especialmente, las partículas de humo de cigarrillo pueden acumularse y corroer los circuitos, lo que provoca diversos problemas, como bloqueos informáticos.
-
     .row.justify-content-start.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Procedimiento
-    
     .BGIMG03.px-md-5.px-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema3/img38.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img38.svg' alt="")
         .col-lg-8(data-aos="fade-left")
           SlyderF.mb-5(columnas="col-lg-6")
             .tarjeta.color-secundario.p-4.h-100
@@ -666,59 +634,54 @@
               p.text-center.mb-0 Otra buena alternativa al aire comprimido es una aspiradora portátil a batería.
             .tarjeta.color-secundario.p-4.h-100
               p.text-center.mb-0 Las aspiradoras portátiles pueden eliminar por completo el polvo, la suciedad y el cabello de la placa base y evitar que quede atrapado en la carcasa.
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Limpieza de ratones
-    
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Limpieza de ratones
     p.mb-5(data-aos="fade-right") Un <i>mouse</i> óptico o láser sucio puede hacer que el cursor del <i>mouse</i> sea difícil de mover o que se mueva de forma errática.
-
     .row.align-items-center.mb-5
       .col-xl-1.d-xl-flex.d-none
       .col-xl-8.col-lg-10.order-lg-1.order-2
         .tarjeta-avatar-b(data-aos="fade-right")
           .tarjeta-avatar-b__img(style="left: 5%")
-            img(src='@/assets/curso/temas/img02.svg' alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/img02.svg' alt='')
           .BGR06.w-100.p-4.row.justify-content-center
             .col-lg-9.col-10
               .h4.mb-0 Use una lata de aire comprimido diseñada para usar con equipos electrónicos, rociándola alrededor del sensor óptico en la parte inferior del <i>mouse</i>.
             .col-lg-1.d-lg-flex.d-none
         .tarjeta-avatar-b(data-aos="fade-right")
           .tarjeta-avatar-b__img(style="left: 5%")
-            img(src='@/assets/curso/temas/img06.svg' alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/img06.svg' alt='')
           .BG07.w-100.p-4.row.justify-content-center
             .col-lg-9.col-10
               .h4.mb-0 Soplar aire en la parte inferior del <i>mouse</i> elimina la suciedad, el polvo, el cabello u otras obstrucciones que bloquean el sensor óptico.
             .col-lg-1.d-lg-flex.d-none
         .tarjeta-avatar-b(data-aos="fade-right")
           .tarjeta-avatar-b__img(style="left: 5%")
-            img(src='@/assets/curso/temas/img02.svg' alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/img02.svg' alt='')
           .BG06.w-100.p-4.row.justify-content-center
             .col-lg-9.col-10
               .h4.mb-0 Evite usar productos químicos de limpieza o pasar un paño directamente sobre el sensor óptico, ya que podría rayarlo o dañarlo.
             .col-lg-1.d-lg-flex.d-none
       .col-sm-3.col-2.d-lg-none.d-flex
       .col-xl-3.col-lg-4.col-sm-6.col-8.img-01.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img39.svg' alt="Imagen decorativa")
-
+        img(src='@/assets/curso/tema3/img39.svg' alt="")
     .row.justify-content-center.mb-5
       .col-lg-10.BGIMG07.p-2(data-aos="fade-left")
         .row.justify-content-between.align-items-center
           .col-lg-2.d-lg-flex.d-none.px-xl-5.px-4
-            img(src='@/assets/curso/tema3/img40.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img40.svg' alt="")
           .col-lg-9
             .h5.text-white.mb-0 Ratón óptico-mecánico (ratón de bola): Un ratón óptico-mecánico sucio (ratón con una bola) puede dificultar el movimiento del ratón y provocar un movimiento extraño del ratón.
-    
     p.mb-5(data-aos="fade-right") Girar la parte inferior de la cubierta del <i>mouse</i>.
-
     .row.justify-content-start.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Procedimiento
-
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img41.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img41.png' alt="")
       .col-lg-8
         ul.lista-ul--color.lista-ul--separador
           li(style="margin-bottom: 2px" data-aos="fade-left")
@@ -742,170 +705,159 @@
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
             p.mb-0 Si la cubierta no se cae, trate de sacudir el <i>mouse</i> suavemente.
-
     p.mb-5(data-aos="fade-right") Ratón de ordenador sin bola.
-
     .row.justify-content-start.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Procedimiento
-
     .BGM09.px-md-5.px-4.py-4.mb-5
       .row.justify-content-center
         .col-lg-4.col-10.order-lg-1.order-2(data-aos="fade-right")
           .tarjeta-avatar-b.mb-2
             .tarjeta-avatar-b__img(style="align-items: start")
-              img(src='@/assets/curso/tema3/img42.svg' alt='Imagen decorativa')
+              img(src='@/assets/curso/tema3/img42.svg' alt='')
             .tarjeta.color-acento-botones.p-4
               p.mb-0 Una vez que se quitan la cubierta inferior y la bola, se deben ver tres rodillos dentro del <i>mouse</i>. 
           .tarjeta-avatar-b.mb-2
             .tarjeta-avatar-b__img(style="align-items: start")
-              img(src='@/assets/curso/tema3/img43.svg' alt='Imagen decorativa')
+              img(src='@/assets/curso/tema3/img43.svg' alt='')
             .tarjeta.color-acento-contenido.p-4
               p.mb-0 Utilice un bastoncillo de algodón, el dedo o la uña para eliminar cualquier sustancia de los rodillos. 
           .tarjeta-avatar-b.mb-2
             .tarjeta-avatar-b__img(style="align-items: start")
-              img(src='@/assets/curso/tema3/img44.svg' alt='Imagen decorativa')
+              img(src='@/assets/curso/tema3/img44.svg' alt='')
             .tarjeta.color-acento-botones.p-4
               p.mb-0 Por lo general, hay una pequeña línea de cabello y suciedad en el medio del rodillo.
           .row
             .col-lg.d-lg-none.d-flex
               .tarjeta-avatar-b.mb-2
                 .tarjeta-avatar-b__img(style="align-items: start")
-                  img(src='@/assets/curso/tema3/img45.svg' alt='Imagen decorativa')
+                  img(src='@/assets/curso/tema3/img45.svg' alt='')
                 .tarjeta.color-acento-contenido.p-4
                   p.mb-0 Retire la mayor cantidad posible de esta sustancia.
         .col-lg-4.col-8.order-lg-2.order-1(data-aos="fade-right")
           figura.mb-4
-            img(src='@/assets/curso/tema3/img49.svg' alt='Imagen decorativa')
+            img(src='@/assets/curso/tema3/img49.svg' alt='')
           .row
             .col-lg.d-lg-flex.d-none
               .tarjeta-avatar-b.mb-2
                 .tarjeta-avatar-b__img(style="align-items: start")
-                  img(src='@/assets/curso/tema3/img45.svg' alt='Imagen decorativa')
+                  img(src='@/assets/curso/tema3/img45.svg' alt='')
                 .tarjeta.color-acento-contenido.p-4
                   p.mb-0 Retire la mayor cantidad posible de esta sustancia.
         .col-lg-4.col-10.order-3(data-aos="fade-left")
           .tarjeta-avatar-b.mb-2
             .tarjeta-avatar-b__img(style="align-items: start")
-              img(src='@/assets/curso/tema3/img46.svg' alt='Imagen decorativa')
+              img(src='@/assets/curso/tema3/img46.svg' alt='')
             .tarjeta.color-acento-botones.p-4
               p.mb-0 Una vez que haya eliminado la mayor cantidad de suciedad y cabello posible, vuelva a colocar la bola en el <i>mouse</i> y vuelva a colocar la cubierta.
           .tarjeta-avatar-b.mb-2
             .tarjeta-avatar-b__img(style="align-items: start")
-              img(src='@/assets/curso/tema3/img47.svg' alt='Imagen decorativa')
+              img(src='@/assets/curso/tema3/img47.svg' alt='')
             .tarjeta.color-acento-contenido.p-4
               p.mb-0 Si el <i>mouse</i> todavía tiene los mismos problemas, repita el proceso anterior. 
           .tarjeta-avatar-b.mb-2
             .tarjeta-avatar-b__img(style="align-items: start")
-              img(src='@/assets/curso/tema3/img48.svg' alt='Imagen decorativa')
+              img(src='@/assets/curso/tema3/img48.svg' alt='')
             .tarjeta.color-acento-botones.p-4
               p.mb-0 Si, después de varios intentos, el <i>mouse</i> sigue teniendo los mismos problemas, su <i>mouse</i> tiene otros problemas de #[em hardware] y debe reemplazarse.
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Limpieza de impresora
-
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Limpieza de impresora
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img50.jpg')})`}" data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Limpiar el exterior de una impresora ayuda a mantener la apariencia de la impresora y, si la usan muchas personas diferentes, mantiene la impresora libre de gérmenes.
-
     .row.justify-content-start.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Procedimiento
-
     p.mb-5(data-aos="fade-right") Primero, asegúrese de apagar la impresora antes de limpiarla.
-
     .BGIMG03.px-md-5.px-4.mb-5(data-aos="zoom-in")
       .row.justify-content-center
         .col-xl-3.col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
           .tarjeta.BGR09.h-100.p-4
             .row.justify-content-center.mb-4
               .col-8
-                img(src='@/assets/curso/tema3/img71.png' alt='Imagen decorativa')
+                img(src='@/assets/curso/tema3/img71.png' alt='')
             p.mb-0 Humedezca un paño con agua o alcohol isopropílico y limpie la carcasa y cada uno de los botones o perillas de la impresora.
         .col-xl-3.col-lg-4.col-8.mb-lg-0.mb-4(data-aos="flip-up")
           .tarjeta.BGR09.h-100.p-4
             .row.justify-content-center.mb-4
               .col-8
-                img(src='@/assets/curso/tema3/img72.png' alt='Imagen decorativa')
+                img(src='@/assets/curso/tema3/img72.png' alt='')
             p.mb-0 Como se mencionó anteriormente, nunca rocíe ningún líquido directamente sobre la impresora.
         .col-xl-3.col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-left")
           .tarjeta.BGR09.h-100.p-4
             .row.justify-content-center.mb-4
               .col-8
-                img(src='@/assets/curso/tema3/img73.png' alt='Imagen decorativa')
+                img(src='@/assets/curso/tema3/img73.png' alt='')
             p.mb-0 Algunas impresoras requieren que se limpie el interior para ayudar a que la impresora funcione sin problemas.
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Limpieza del escáner
-    
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Limpieza del escáner
     p.mb-5(data-aos="fade-right") Los escáneres de superficie plana suelen ensuciarse con polvo, huellas dactilares y cabello. Cuando el escáner está sucio, las imágenes pueden tener distorsiones.
-
     .row.justify-content-start.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Procedimiento
-
     .BGIMG03.px-md-5.px-4.mb-5(data-aos="zoom-in")
       .row.justify-content-center
         .col-xl-3.col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
           .tarjeta.BGR09.h-100.p-4
             .row.justify-content-center.mb-4
               .col-8
-                img(src='@/assets/curso/tema3/img51.png' alt='Imagen decorativa')
+                img(src='@/assets/curso/tema3/img51.png' alt='')
             p.mb-0 Limpie la superficie de un escáner de superficie plana rociando un limpiador de ventanas sobre una toalla de papel o un paño de algodón y limpie el vidrio hasta que quede limpio. 
         .col-xl-3.col-lg-4.col-8.mb-lg-0.mb-4(data-aos="flip-up")
           .tarjeta.BGR09.h-100.p-4
             .row.justify-content-center.mb-4
               .col-8
-                img(src='@/assets/curso/tema3/img52.png' alt='Imagen decorativa')
+                img(src='@/assets/curso/tema3/img52.png' alt='')
             p.mb-0 Como se mencionó anteriormente, nunca rocíe un líquido directamente sobre el componente.
         .col-xl-3.col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-left")
           .tarjeta.BGR09.h-100.p-4
             .row.justify-content-center.mb-4
               .col-8
-                img(src='@/assets/curso/tema3/img53.png' alt='Imagen decorativa')
+                img(src='@/assets/curso/tema3/img53.png' alt='')
             p.mb-0 También se puede usar la misma toalla o paño de algodón para limpiar el exterior del escáner.
-
     separador
     #t_3_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.2 Productos
-    
     figure(data-aos="fade-left")
-      img(src='@/assets/curso/tema3/img54.png' alt="Imagen decorativa")
+      img(src='@/assets/curso/tema3/img54.png' alt="")
     .row.justify-content-center
       .col-lg-10.img-02
         .tarjeta.BG11.p-4.mb-4
           p.text-center.mb-0 La limpieza física de su PC con regularidad puede agregar años a su vida útil general y ayudar a mantener sus componentes funcionando de la manera más eficiente posible. Para ayudarlo a hacer bien el trabajo, a continuación, le indicamos cómo limpiar su computadora.
-    
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Herramientas y suministros de limpieza
-    
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Herramientas y suministros de limpieza
     p.mb-5(data-aos="fade-right") Al limpiar su computadora, es útil tener a mano las herramientas y los suministros adecuados. Esto es lo que necesitará:
-
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img55.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img55.png' alt="")
       .col-lg-8(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta BG02")
           div.px-2(titulo="Paño de microfibra")
-            p.mb-0 Estos paños de limpieza especializados están hechos de un material suave y resistente. Los paños de microfibra no dañan la pantalla ni la computadora, pero son excelentes para limpiar las áreas delicadas.
+            p.mb-0.ms-5 Estos paños de limpieza especializados están hechos de un material suave y resistente. Los paños de microfibra no dañan la pantalla ni la computadora, pero son excelentes para limpiar las áreas delicadas.
           div.px-2(titulo="Alcohol isopropílico")
-            p.mb-0 Cuando necesite quitar pegatinas o limpiar cualquier parte de su PC que no pueda exponerse a la humedad, el alcohol isopropílico es perfecto. El potente líquido se seca sin dejar residuos y disuelve incluso las acumulaciones de suciedad más molestas.
+            p.mb-0.ms-5 Cuando necesite quitar pegatinas o limpiar cualquier parte de su PC que no pueda exponerse a la humedad, el alcohol isopropílico es perfecto. El potente líquido se seca sin dejar residuos y disuelve incluso las acumulaciones de suciedad más molestas.
           div.px-2(titulo="Bastoncillos de algodón")
-            p.mb-0 A veces llamados bastoncillos de algodón, los bastoncillos de algodón son perfectos para meterse en lugares delicados o difíciles de alcanzar en su PC.
+            p.mb-0.ms-5 A veces llamados bastoncillos de algodón, los bastoncillos de algodón son perfectos para meterse en lugares delicados o difíciles de alcanzar en su PC.
           div.px-2(titulo="Toallas de papel")
-            p.mb-0 Si bien no son la solución de limpieza más elegante, las toallas de papel hacen el trabajo al limpiar el exterior de una computadora o cualquier gabinete con ventanas de vidrio.
+            p.mb-0.ms-5 Si bien no son la solución de limpieza más elegante, las toallas de papel hacen el trabajo al limpiar el exterior de una computadora o cualquier gabinete con ventanas de vidrio.
           div.px-2(titulo="Limpieza externa")
-            p El exterior de su computadora se puede limpiar antes o después del interior.
-            ul.lista-ul--color.lista-ul--separador
+            p.ms-5 El exterior de su computadora se puede limpiar antes o después del interior.
+            ul.lista-ul--color.lista-ul--separador.ms-5
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle.t-ac
                 | El Limpiador de vidrio rociado sobre una toalla de papel, nunca directamente sobre la PC, es la mejor manera de limpiar cualquier parte externa de su computadora.
@@ -916,8 +868,8 @@
                 i.fas.fa-check-circle.t-ac
                 | El uso de un paño o una toalla de papel que esté demasiado húmedo puede provocar que un exceso de limpiador entre en los puertos y cause un daño significativo a su PC.
           div.px-2(titulo="Retire los filtros de polvo")
-            p Antes de limpiar su escritorio, asegúrese de verificar si hay filtros de polvo extraíbles en su carcasa.
-            ul.lista-ul--color.lista-ul--separador
+            p.ms-5 Antes de limpiar su escritorio, asegúrese de verificar si hay filtros de polvo extraíbles en su carcasa.
+            ul.lista-ul--color.lista-ul--separador.ms-5
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle.t-ac
                 | A menudo, habrá al menos un filtro conectado a la fuente de alimentación que se puede quitar y limpiar fácilmente. 
@@ -927,13 +879,12 @@
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle.t-ac
                 | La misma tecnología que evita que entre polvo también evitará que los desechos salgan de la caja, por lo que es mejor quitar los filtros al principio del proceso de limpieza.
-
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta BG02")
           div.px-2(titulo="Limpieza interna")
-            p Hay algunas áreas clave que debe limpiar regularmente dentro de su PC.
-            ul.lista-ul--color.lista-ul--separador
+            p.ms-5 Hay algunas áreas clave que debe limpiar regularmente dentro de su PC.
+            ul.lista-ul--color.lista-ul--separador.ms-5
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle.t-ac
                 | Recuerde tomar su tiempo y concentrarse en limpiar cuidadosamente cuando trabaje cerca de componentes expuestos.
@@ -944,7 +895,7 @@
                 i.fas.fa-check-circle.t-ac
                 | Para ser increíblemente minucioso, puede quitar su tarjeta gráfica, pero eso no es necesario.
           div.px-2(titulo="Limpieza de su casa")
-            ul.lista-ul--color.lista-ul--separador
+            ul.lista-ul--color.lista-ul--separador.ms-5
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle.t-ac
                 | Asegúrese de estar en un espacio bien ventilado.
@@ -958,7 +909,7 @@
                 i.fas.fa-check-circle.t-ac
                 | Si puede, quite las bridas para cables o vacíe los compartimientos para unidades para limpiar detrás de ellos más fácilmente.
           div.px-2(titulo="Ventiladores de limpieza")
-            ul.lista-ul--color.lista-ul--separador
+            ul.lista-ul--color.lista-ul--separador.ms-5
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle.t-ac
                 | Los ventiladores también son la causa principal de la suciedad y el polvo que ingresan a su PC.
@@ -981,7 +932,7 @@
                 i.fas.fa-check-circle.t-ac
                 | Una vez que haya eliminado toda la acumulación de polvo significativa de los ventiladores, golpee toda el área con aire nuevamente para eliminar el polvo caído que acaba de limpiar el ventilador.
           div.px-2(titulo="Limpieza de su fuente de alimentación")
-            ul.lista-ul--color.lista-ul--separador
+            ul.lista-ul--color.lista-ul--separador.ms-5
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle.t-ac
                 | Como se mencionó anteriormente, la parte más crucial de la limpieza de una fuente de alimentación es quitar y limpiar adecuadamente el filtro de polvo antes de intentar limpiar el resto del dispositivo.
@@ -998,35 +949,33 @@
                 i.fas.fa-check-circle.t-ac
                 | Puede usar alcohol isopropílico para quitar las pegatinas del dispositivo, pero aplíquelo con cuidado con un bastoncillo de algodón y no lo deje correr.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img56.png' alt="Imagen decorativa")
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Limpieza de su tarjeta gráfica/GPU
-    
+        img(src='@/assets/curso/tema3/img56.png' alt="")
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Limpieza de su tarjeta gráfica/GPU
     .row.align-items-center.mb-5
       .col-xl-3.col-lg-4.col-sm-6.col-8.img-06.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img57.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img57.png' alt="")
       .col-xl-3.col-lg-2.d-lg-flex.d-none
       .col-xl-8.col-lg-10
         .BGR06.w-100.p-4.row.justify-content-center.align-items-center(data-aos="fade-right")
           .col-lg-1.d-lg-flex.d-none
           .col-lg-1.col-2
-            img(src='@/assets/curso/temas/img02.svg' alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/img02.svg' alt='')
           .col-lg-9.col-10
             .h4.mb-0 En estos días, la mayoría de las tarjetas gráficas tienen un conjunto de dos o incluso tres ventiladores para mantenerlas frescas.
         .BG07.w-100.p-4.row.justify-content-center.align-items-center(data-aos="fade-right")
           .col-lg-1.d-lg-flex.d-none
           .col-lg-1.col-2
-            img(src='@/assets/curso/temas/img06.svg' alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/img06.svg' alt='')
           .col-lg-9.col-10
             .h4.mb-0 Si bien esto es fantástico para juegos y otras tareas profesionales, crea más aire en movimiento en su sistema y, por lo tanto, esparce más polvo y escombros.
-
     .row.justify-content-center.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
         .h4.text-center.mb-0 Hay dos formas de limpiar la tarjeta gráfica
-    
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta.BG09.h-100
@@ -1064,15 +1013,15 @@
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle.t-ab
                 | Un paño de microfibra puede ayudar a recolectar grandes trozos de polvo que caen entre las ráfagas de aire.
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Mantenimiento de CPU
-
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Mantenimiento de CPU
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img58.svg', style="width: 400px", alt="Imagen decorativa").m-auto
+        img(src='@/assets/curso/tema3/img58.svg', style="width: 400px", alt="").m-auto
       .col-lg-7
         ul.lista-ul--color.lista-ul--separador
           li(style="margin-bottom: 2px" data-aos="fade-left")
@@ -1096,7 +1045,6 @@
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ab
             | Nunca intente separar una CPU y un enfriador cuando el dispositivo esté frío o no se haya encendido recientemente.
-        
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7.order-lg-1.order-2
         ul.lista-ul--color.lista-ul--separador
@@ -1122,12 +1070,10 @@
             i.fas.fa-check-circle.t-ab
             | Una vez que se haya eliminado todo el compuesto viejo, aplique una gota del tamaño de un guisante de pasta térmica nueva antes de volver a instalar el enfriador en su CPU.
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img59.svg',style="width: 400px", alt="Imagen decorativa").m-auto
-
+        img(src='@/assets/curso/tema3/img59.svg',style="width: 400px", alt="").m-auto
     separador
     #t_3_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.3 Usos
-
     .BGM10.px-md-5.px-4
       .bloque-texto-g.bg-c2.p-3.p-sm-4.p-md-5.mb-5
         .bloque-texto-g__img(
@@ -1135,18 +1081,16 @@
         )
         .bloque-texto-g__texto.p-4(data-aos="fade-left")
           p.mb-0 Los ingredientes más comunes en los productos de limpieza para el hogar incluyen álcalis, ácidos, detergentes, abrasivos, desinfectantes y solventes de alcohol.
-
       figure(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img61.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img61.png' alt="")
       .row.justify-content-center
         .col-auto.img-02
           .tarjeta.BGS05.px-5.py-2
             .h5.text-center.mb-0 Ahora, se conocerá más al respecto sobre estos
-
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta BG02" data-aos="fade-right")
-      .row.justify-content-center.px-2(titulo="Abrasivos")
+      .row.justify-content-center.ms-4.px-2(titulo="Abrasivos")
         .col-lg-3.col-6.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img62.png' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img62.png' alt="")
         .col-lg-9
           ul.lista-ul--color.lista-ul--separador
             li(style="margin-bottom: 2px")
@@ -1184,17 +1128,19 @@
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle.t-p
               | Los abrasivos gruesos pueden dañar el plástico, el vidrio, las superficies antiadherentes de los utensilios de cocina, la carpintería pintada y los metales enchapados y muy pulidos.
-      .row.justify-content-center.px-2(titulo="Ácidos")
-        .col-lg-3.col-6.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img63.png' alt="Imagen decorativa")
-        .col-lg-9.mb-4
-          ul.lista-ul--color.lista-ul--separador
-            li(style="margin-bottom: 2px")
-              i.fas.fa-check-circle.t-p
-              | Los ácidos son beneficiosos para eliminar los depósitos de agua dura, la decoloración de las manchas de óxido de aluminio, latón, bronce y cobre y hierro. 
-            li(style="margin-bottom: 2px")
-              i.fas.fa-check-circle.t-p
-              | Los ácidos fuertes también devoran la ropa, el cuero, la piel y algunos metales. También pueden irritar y lesionar la piel y los ojos.
+      .row.justify-content-center.px-2.ms-4(titulo="Ácidos")
+        .col-12.mb-3
+          .row.align-items-center
+            .col-lg-3.col-6.mb-lg-0.mb-4
+              img(src='@/assets/curso/tema3/img63.png' alt="")
+            .col-lg-9
+              ul.lista-ul--color.lista-ul--separador
+                li(style="margin-bottom: 2px")
+                  i.fas.fa-check-circle.t-p
+                  | Los ácidos son beneficiosos para eliminar los depósitos de agua dura, la decoloración de las manchas de óxido de aluminio, latón, bronce y cobre y hierro. 
+                li(style="margin-bottom: 2px")
+                  i.fas.fa-check-circle.t-p
+                  | Los ácidos fuertes también devoran la ropa, el cuero, la piel y algunos metales. También pueden irritar y lesionar la piel y los ojos.
         .col-lg-6.mb-lg-0.mb-4
           .tarjeta.BG09.h-100
             .BG16.px-5.py-2
@@ -1225,7 +1171,7 @@
                 li(style="margin-bottom: 2px")
                   i.fas.fa-check-circle.t-ac
                   | El ácido clorhídrico y el sulfúrico se usan en concentraciones diluidas en algunos limpiadores de inodoros.
-      .row.justify-content-center.px-2(titulo="Álcalis")
+      .row.justify-content-center.px-2.ms-4(titulo="Álcalis")
         .col-lg-9.order-lg-1.order-2
           ul.lista-ul--color.lista-ul--separador
             li(style="margin-bottom: 2px")
@@ -1253,9 +1199,9 @@
               i.fas.fa-check-circle.t-p
               | Los álcalis más fuertes pueden causar quemaduras y, si se tragan, pueden causar lesiones internas o la muerte.
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img64.png' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img64.png' alt="")
         .col-lg-3.col-6.order-3.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img65.png' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img65.png' alt="")
         .col-lg-9.order-4.mb-4
           .h4 Suave
           ul.lista-ul--color.lista-ul--separador
@@ -1288,9 +1234,9 @@
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle.t-p
               | Mantenga todos los productos de limpieza domésticos fuera del alcance de los niños y las mascotas.
-      .row.justify-content-center.px-2(titulo="Blanqueadores")
+      .row.justify-content-center.px-2.align-items-center.ms-4(titulo="Blanqueadores")
         .col-lg-3.col-6.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img66.png' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img66.png' alt="")
         .col-lg-9
           ul.lista-ul--color.lista-ul--separador
             li(style="margin-bottom: 2px")
@@ -1299,9 +1245,9 @@
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle.t-p
               | Sin embargo, los nuevos blanqueadores sin cloro se están volviendo más populares, principalmente porque son más seguros de usar y almacenar.
-      .row.justify-content-center.px-2(titulo="Detergentes")
+      .row.justify-content-center.align-items-center.px-2.ms-4(titulo="Detergentes")
         .col-lg-3.col-6.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img67.png' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img67.png' alt="")
         .col-lg-9
           ul.lista-ul--color.lista-ul--separador
             li(style="margin-bottom: 2px")
@@ -1313,9 +1259,9 @@
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle.t-p
               | Si se agrega un constructor, el producto de limpieza se marca como "servicio pesado" o "multiuso".
-      .row.justify-content-center.px-2(titulo="Desinfectantes")
+      .row.justify-content-center.align-items-center.px-2.ms-4(titulo="Desinfectantes")
         .col-lg-3.col-6.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img68.png' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img68.png' alt="")
         .col-lg-9
           ul.lista-ul--color.lista-ul--separador
             li(style="margin-bottom: 2px")
@@ -1327,9 +1273,9 @@
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle.t-p
               | Los desinfectantes también ayudan a desodorizar las superficies, porque matan los microorganismos que producen olores.
-      .row.justify-content-center.px-2(titulo="Disolventes de alcohol")
+      .row.justify-content-center.align-items-center.px-2.ms-4(titulo="Disolventes de alcohol")
         .col-lg-3.col-6.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img69.png' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img69.png' alt="")
         .col-lg-9
           ul.lista-ul--color.lista-ul--separador
             li(style="margin-bottom: 2px")
@@ -1338,16 +1284,16 @@
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle.t-p
               | Estos solventes son similares a los fluidos utilizados en los procesos de limpieza en seco porque eliminan la suciedad aceitosa.
-
-    .row.mb-5
-      .col-auto(data-aos="fade-right")
-        .BGS01.px-5.py-2
-          .h3.mb-0 Hacer un limpiador   
-    
+    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+      .col-lg-auto
+        figure
+          img(src="@/assets/curso/tema1/img78.png" style="max-width: 60px").m-auto
+      .col
+        h3 Hacer un limpiador   
     .BGIMG03.px-md-5.px-4
       .row.justify-content-center.align-items-center
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema3/img70.png' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img70.png' alt="")
         .col-lg-8(data-aos="fade-left")
           SlyderF.mb-5(columnas="col-lg-6")
             .tarjeta.color-secundario.p-4.h-100

@@ -9,7 +9,7 @@
       h1 Introducción
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/intro/img01.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/intro/img01.svg' alt="")
       .col-lg-7
         p.mb-xl-5(data-aos="fade-left") Conocer los detalles de sus activos de TI, por ejemplo, su configuración y ubicación, es vital para las organizaciones. Los datos recopilados le permiten ver qué procesadores tienen las computadoras en su red, qué sistemas operativos usan los empleados y cuál es el estado actual de sus activos de TI. Esto le brinda información sobre la cantidad de licencias de #[em software] que se han activado y cuáles están a punto de quedar obsoletas. La gestión de equipos informáticos es fundamental para prepararse para la auditoría de licencias de software y garantizar el cumplimiento.
         .cajon.color-acento-botones.p-4(data-aos="fade-left")

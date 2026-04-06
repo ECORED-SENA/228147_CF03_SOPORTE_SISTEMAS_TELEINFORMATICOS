@@ -10,7 +10,7 @@
             img(src="@/assets/template/opcion-multiple.svg", alt="Imagen decorativa")
       .col-12.col-md-8.col-lg-9(data-aos="fade-left")
         .titulo-segundo.color-acento-botones
-          h2 Gestión de equipos de cómputo
+          h2 Gestión de equipos de informaticos
         p.mb-4 Apropiarse de los conceptos más importantes asociados a la gestión de equipos de cómputo para aplicarlos en el mantenimiento y limpieza de los mismos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
