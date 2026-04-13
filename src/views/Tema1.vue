@@ -157,7 +157,7 @@
           .row.justify-content-center
             .col-lg-8.order-lg-1.order-2
               .h4.mt-4 Ejecute la limpieza del disco
-              p.mb-0 Puede liberar espacio en el disco en su disco duro ejecutando una limpieza de disco. Esto limpiará los archivos temporales y los archivos de idioma adicionales, así como también eliminará los archivos adjuntos grandes y más.
+              p.mb-0 Puede liberar espacio en su disco duro ejecutando una limpieza de disco. Esto limpiará los archivos temporales y los archivos de idioma adicionales, así como también eliminará los archivos adjuntos grandes y más.
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img15.png' alt="")
           .row.justify-content-center
@@ -818,7 +818,7 @@
               p.mb-0.ms-4 Desenchufe el cable de alimentación y el cable de la parte posterior del monitor y deje que se enfríe durante al menos 20 minutos.
           .row.justify-content-center(titulo="Paso 2")
             .col-lg-11
-              p.mb-0 Aspire el exterior del monitor, en particular las ranuras de enfriamiento, los orificios o las ranuras en la superficie superior donde se puede haber acumulado polvo pesado u otros desechos. Sople aire comprimido en bocanadas cortas en ángulo con respecto a la superficie del monitor. El objetivo es eliminar el polvo y la suciedad sin dejar que nada caiga en los orificios de ventilación.
+              p.mb-0.ms-4 Aspire el exterior del monitor, en particular las ranuras de enfriamiento, los orificios o las ranuras en la superficie superior donde se puede haber acumulado polvo pesado u otros desechos. Sople aire comprimido en bocanadas cortas en ángulo con respecto a la superficie del monitor. El objetivo es eliminar el polvo y la suciedad sin dejar que nada caiga en los orificios de ventilación.
           .row.justify-content-center(titulo="Paso 3")
             .col-lg-11
               p.mb-0.ms-4 Humedezca ligeramente un paño con una solución jabonosa suave y limpie las partes exteriores de plástico del monitor.
@@ -830,7 +830,7 @@
               p.mb-0.ms-4 Consulte la documentación o llame al fabricante para averiguar si la pantalla de su monitor tiene revestimientos antideslumbrantes u otros revestimientos delicados. Si es así, pregunte al fabricante o las instrucciones de limpieza. Si no tiene estos revestimientos especiales, puede rociar un limpiador de ventanas en un paño sin pelusa y limpiarlo. No rocíe directamente sobre la pantalla. Los productos químicos pueden gotear dentro del monitor y dañarlo.
           .row.justify-content-center(titulo="Paso 6")
             .col-lg-11
-              p.mb-0 Para entornos de fabricación polvorientos o sucios, use una cubierta antipolvo para computadora para proteger el monitor.
+              p.mb-0.ms-4 Para entornos de fabricación polvorientos o sucios, use una cubierta antipolvo para computadora para proteger el monitor.
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
         figure

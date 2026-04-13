@@ -249,14 +249,14 @@
     .tarjeta.BGIMG04.p-lg-5.p-4.mb-5(data-aos="zoom-in")
       .tarjeta.tarjeta--blanca.p-4
         PasosB.color-acento-botones
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img24.jpg' alt="")
             .col-lg-8
               .h4 Defina su público objetivo
               p El primer paso que debe dar en el proceso de redacción de su manual técnico es definir su público objetivo. Puede pensar que conoce a sus clientes, pero la realidad es que las empresas con frecuencia operan con suposiciones y conceptos erróneos.
               p.mb-0 Conozca los usuarios. Descubra cómo están utilizando sus productos, cuáles son sus desafíos y su nivel de experiencia técnica. Esto le permitirá presentar su manual al nivel correcto sin presionar a sus usuarios más allá de sus habilidades actuales. Su equipo de atención al cliente puede ser un recurso valioso cuando se trata de conocer a sus clientes. Podrán decirle qué preguntas hacen los clientes con frecuencia y cómo los clientes usan sus productos.
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img25.jpg' alt="")
             .col-lg-8
@@ -264,19 +264,19 @@
               p Todos sus documentos dentro de su manual técnico deben seguir una estructura predefinida. Cuando sus usuarios saben qué esperar, esto mejora su experiencia con el manual y hace que su contenido sea más consistente. Esto es especialmente crítico cuando está utilizando un equipo de escritores para crear su manual, como probablemente lo será. 
               p La plantilla debe contener información vital relacionada con la estructura del documento. Esto incluye si usar una tabla de contenido, los títulos y subtítulos, así como las opciones de formato. 
               p.mb-0 Tener una plantilla estandarizada les brinda a sus escritores un tiempo más fácil cuando se trata de crear contenido nuevo. Pueden seguir un conjunto de reglas predefinidas que su organización ha implementado para garantizar la correcta presentación del contenido.
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img26.jpg' alt="")
             .col-lg-8
               .h4 Resuma el propósito del producto/característica
               p.mb-0 Cuando se trata de escribir su manual técnico, debe asegurarse de que es el experto cuando se trata de explicar su producto y cómo usarlo. Reserve suficiente tiempo para explorar todo sobre los productos y su caso de uso previsto, así como sus características y cómo operarlos. En esta etapa, probablemente querrá obtener información de expertos en la materia, como ingenieros o gerentes de productos, quienes tendrán una contribución significativa para hacer su documentación. Podrán proporcionar información sobre el producto que no esperaría, como fallas comunes y métodos de solución de problemas. También es posible que desee encuestar a sus clientes para averiguar cómo utilizan su producto y sus funciones. Luego puede asegurarse de que su manual técnico sea completo y se adapte a las necesidades de sus clientes.
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img27.jpg' alt="")
             .col-lg-8
               .h4 Agregue instrucciones paso a paso
               p.mb-0 Debe presentar sus instrucciones a los usuarios en un formato paso a paso. No hay nada peor en un manual técnico que un muro de texto temido, que no es muy accesible para los usuarios que buscan solucionar un problema. Cuando sus instrucciones se presentan paso a paso, puede explicar qué debe hacer el sistema en cada etapa de la operación. Las instrucciones paso a paso son más fáciles de seguir y permiten a los usuarios realizar un seguimiento de su progreso fácilmente. Los usuarios pueden comprender los pasos que deben seguir de antemano, lo que facilita el proceso de solución de problemas. También son más fáciles de escanear, lo que permite a los usuarios decidir rápidamente si el documento resolverá su problema antes de embarcarse en una solución.
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img28.jpg' alt="")
             .col-lg-8
@@ -284,25 +284,25 @@
               p Ningún manual técnico está completo sin representaciones visuales del producto y sus características. Pueden ser capturas de pantalla, diagramas, fotografías o incluso videos. Los activos visuales rompen el muro de texto al que los usuarios se enfrentarían y también les permite interpretar la documentación de manera más eficaz.
               p Si su manual es para un producto de #[em software], las capturas de pantalla muestran a los clientes cómo se supone que debe verse su producto y los guía a través de las instrucciones con más éxito que el texto solo. Con imágenes y diagramas de productos, los clientes se familiarizan con el funcionamiento correcto del producto y pueden diagnosticar exactamente dónde algo salió mal.
               p.mb-0 Los activos visuales facilitan la descripción del proceso de solución de problemas y también reducen los posibles costos de traducción.
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img29.jpg' alt="")
             .col-lg-8
               .h4 Amplíe para revisión por pares
               p.mb-0 Su documentación debe revisarse internamente antes de que esté lista para su publicación. Un grupo de pares que incluya expertos en la materia es vital para garantizar que la documentación sea precisa y tenga sentido para los usuarios. Por eso también es importante contratar los servicios de usuarios no técnicos, que podrán resaltar áreas en las que la documentación es difícil de entender. La documentación con errores es peor e inútil para los clientes, pues presenta una imagen de marca negativa y significa que sus instrucciones no son adecuadas para su propósito. Tampoco desea representar su producto de una manera que vaya en contra de la estrategia de la empresa. Los revisores expertos pueden ayudarle aquí.
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img30.jpg' alt="")
             .col-lg-8
               .h4 Publique el artículo
               p.mb-0 Finalmente, está listo para publicar la documentación. Es probable que haya pasado por un largo proceso para llegar a esta etapa, por lo que publicar sus artículos es un gran hito. Una vez que haya publicado su documentación, no olvide revisar y verificar si hay algún error que pueda haber pasado por alto. Esto incluye asegurarse de que su contenido se muestre correctamente y se vea bien en cualquier dispositivo. Asegúrese de que sus clientes conozcan la documentación, enlazándola de manera destacada en su sitio web e incluyéndola en los correos electrónicos de bienvenida. Si su producto es físico, incluye versiones impresas con cada entrega o informe a los clientes dónde pueden encontrar su manual en línea.
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img31.jpg' alt="")
             .col-lg-8
               .h4 Recopile los comentarios de los usuarios
               p.mb-0 Después de la publicación, su manual técnico nunca está completamente terminado. La ventaja de los manuales en línea es que puede recopilar comentarios de los usuarios bastante detallados sobre cada aspecto de su documentación. Puede ver cuántas visitas han recibido ciertas páginas, votos a favor y en contra, y qué páginas generaron un ticket de soporte. También es posible que desee encuestar a sus clientes para obtener sus comentarios cualitativos sobre la utilidad de su documentación. Pregúnteles si el contenido satisfizo sus necesidades y cualquier mejora que les gustaría ver. Utilice los comentarios de sus clientes para mejorar continuamente la documentación y asegurarse de que satisfaga las necesidades de los clientes.
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img32.jpg' alt="")
             .col-lg-8
