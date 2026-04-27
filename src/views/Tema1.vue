@@ -245,7 +245,7 @@
         img(src='@/assets/curso/tema1/img19.svg' alt="")
       .col-lg-8(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta BG02")
-          .row.justify-content-center(titulo="Evite sobrecalentar tu dispositivo")
+          .row.justify-content-center(titulo="Evite sobrecalentar su dispositivo")
             .col-lg-11
               p.mb-0.ms-4 Instale su computadora en un área de su oficina u hogar que tenga un buen flujo de aire, con dos pulgadas de espacio vacío a cada lado. Darle espacio a su máquina para que respire ayuda a prevenir el sobrecalentamiento, lo que extiende la vida útil de su dispositivo. Las pilas de papel y otros artículos que se colocan en su computadora también pueden hacer que se sobrecaliente, así que mantenga el área de su escritorio organizada y libre de desorden.
           .row.justify-content-center(titulo="Mantenga los cables organizados")
@@ -257,7 +257,7 @@
           .row.justify-content-center(titulo="Mantenga alejados los alimentos y las bebidas")
             .col-lg-11
               p.mb-0.ms-4 Solo se necesita una lata de refresco para destruir un dispositivo. Por muy tentador que sea disfrutar de un vaso de café mientras revisa sus correos electrónicos matutinos, siempre evite comer o beber cerca de su computadora para reducir el riesgo de derrames.
-          .row.justify-content-center(titulo="Evite el <i>spam</i> mientras navegas")
+          .row.justify-content-center(titulo="Evite el <i>spam</i> mientras navega")
             .col-lg-11
               p.mb-0.ms-4 Si aparece un correo electrónico extraño en su bandeja de entrada o una ventana emergente inesperada mientras navega, resistir el impulso de abrirlo. Las estafas de #[em malware] pueden dañar en gran medida su dispositivo y poner en riesgo sus archivos y su privacidad. Al igual que un automóvil, su computadora necesita mantenimiento regular para funcionar correctamente. Hacer un mantenimiento regular de la computadora puede prolongar en gran medida la vida útil del dispositivo y puede mantenerlo más seguro mientras navega en línea. Al completar solo unos pocos pasos simples, obtendrá un sistema operativo más rápido y más saludable para trabajar.
     separador
@@ -463,7 +463,7 @@
             img(src='@/assets/curso/temas/img03.svg' alt='')
           .tarjeta.color-primario--borde
             .p-4
-              p.mb-0 Si no está seguro de la seguridad o legitimidad de un programa, realice una búsqueda en Google para ver qué información puede encontrar y, si aún tiene dudas, abstenerse de instalar el programa por completo. y ejecute un análisis al menos una vez a la semana.
+              p.mb-0 Si no está seguro de la seguridad o legitimidad de un programa, realice una búsqueda en Google para ver qué información puede encontrar y, si aún tiene dudas, abstenerse de instalar el programa por completo. Y ejecute un análisis al menos una vez a la semana.
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
         figure
@@ -514,7 +514,7 @@
           .row.justify-content-center.mb-3
             .col-6
               img(src='@/assets/curso/tema1/img27.svg' alt='')
-          p.text-center.mb-0 El soporte informático se puede realizar localmente operando físicamente el dispositivo o de forma remota, iniciando sesión en la computadora de un usuario final para analizar un problema. 
+          p.text-center.mb-0 El soporte informático se puede realizar localmente, operando físicamente el dispositivo o de forma remota, iniciando sesión en la computadora de un usuario final para analizar un problema. 
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.mb-3
             .col-6
@@ -827,7 +827,7 @@
               p.mb-0.ms-4 Limpie los cables del monitor y el cable de alimentación mientras están desconectados. Humedezca ligeramente un paño con una solución jabonosa suave y pase suavemente los cables a través del paño.
           .row.justify-content-center(titulo="Paso 5")
             .col-lg-11
-              p.mb-0.ms-4 Consulte la documentación o llame al fabricante para averiguar si la pantalla de su monitor tiene revestimientos antideslumbrantes u otros revestimientos delicados. Si es así, pregunte al fabricante o las instrucciones de limpieza. Si no tiene estos revestimientos especiales, puede rociar un limpiador de ventanas en un paño sin pelusa y limpiarlo. No rocíe directamente sobre la pantalla. Los productos químicos pueden gotear dentro del monitor y dañarlo.
+              p.mb-0.ms-4 Consulte la documentación o llame al fabricante para averiguar si la pantalla de su monitor tiene revestimientos antideslumbrantes u otros revestimientos delicados. Si es así, pregunte al fabricante por las instrucciones de limpieza. Si no tiene estos revestimientos especiales, puede rociar un limpiador de ventanas en un paño sin pelusa y limpiarlo. No rocíe directamente sobre la pantalla. Los productos químicos pueden gotear dentro del monitor y dañarlo.
           .row.justify-content-center(titulo="Paso 6")
             .col-lg-11
               p.mb-0.ms-4 Para entornos de fabricación polvorientos o sucios, use una cubierta antipolvo para computadora para proteger el monitor.
@@ -1154,7 +1154,7 @@
             p.text-center.text-white.mb-0(style="font-weight: 900; font-size: 30px !important") 04
           .col
             .p-4
-              .h5.mb-0 Asegúrate de que tu sistema operativo esté actualizado.
+              .h5.mb-0 Asegúrate de que el sistema operativo esté actualizado.
         .BGA04.row.mb-2(data-aos="fade-right")
           .col-lg-2.col-3.BG05.p-4
             p.text-center.mb-0(style="font-weight: 900; font-size: 30px !important") 05
@@ -1296,7 +1296,7 @@
               p.text-white.mb-0 El proceso de implementación de los nuevos módulos por parte de los programadores.
             .tarjeta.BG13.p-3(x="92.7%" y="59%" numero="+")
               .h5.text-white.mb-2 Pruebas de aceptación
-              p.text-white.mb-0 Los usuarios prueban la modificación para su aceptación. Este es un paso importante ya que los usuarios pueden identificar problemas en curso y generar recomendaciones para una implementación y cambios más efectivo.
+              p.text-white.mb-0 Los usuarios prueban la modificación para su aceptación. Este es un paso importante ya que los usuarios pueden identificar problemas en curso y generar recomendaciones para una implementación y cambios más efectivos.
             .tarjeta.BG13.p-3(x="85.2%" y="96%" numero="+")
               .h5.text-white.mb-2 Entrega
               p.text-white.mb-0 Actualizaciones de #[em software] o, en algunos casos, nueva instalación del #[em software]. Aquí es cuando los cambios llegan a los clientes.

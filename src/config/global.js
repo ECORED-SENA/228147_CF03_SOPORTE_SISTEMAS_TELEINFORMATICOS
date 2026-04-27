@@ -258,15 +258,20 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
-          cargo: 'Responsable del equipo',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Líder del Ecosistema',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Olga Constanza Bermúdez Jaimes',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -277,41 +282,46 @@ export default {
           nombre: 'Ronald Alexander Vacca Ascanio',
           cargo: 'Experto Temático ',
           centro:
-            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
         },
         {
           nombre: 'Diego E. Acevedo Guevara',
           cargo: 'Diseñador Instruccional ',
           centro:
-            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Asesoría metodológica y pedagógica',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'José Gabriel Ortiz Abella',
           cargo: 'Corrector de estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrección de estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Gloria Lida Alzate Suarez',
           cargo: 'Adecuador Instruccional',
           centro:
-            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
           cargo: 'Asesoría metodológica y pedagógica',
           centro:
-            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -319,22 +329,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
+          nombre: 'Yerson Fabián Zárate Saavedra',
+          cargo: 'Diseñador de contenidos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
           nombre: 'Jesús Antonio Vecino Valero',
           cargo: 'Diseñador web',
           centro:
-            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Jhon Jairo Urueta Álvarez',
+          cargo: 'Desarrollador <i>Full stack</i>',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Diego Fernando Velasco Guiza',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <i>Full stack</i>',
           centro:
-            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
           cargo: 'Animador y Producción audiovisual',
           centro:
-            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -345,38 +367,50 @@ export default {
           nombre: 'Zuleidy María Ruiz Torres',
           cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
           cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
-          centro:
-            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
           cargo:
             'Validación de recursos educativos digitales y vinculación LMS',
           centro:
-            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ricardo Oliveros Zambrano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },

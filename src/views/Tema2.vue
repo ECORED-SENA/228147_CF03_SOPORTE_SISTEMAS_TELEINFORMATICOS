@@ -98,9 +98,6 @@
           li(style="margin-bottom: 2px" data-aos="fade-right")
             i.fas.fa-check-circle.t-ac
             | Guías de copia de seguridad y recuperación.
-          li(style="margin-bottom: 2px" data-aos="fade-right")
-            i.fas.fa-check-circle.t-ac
-            | Manuales de asistencia técnica.
       .col-lg-5.col-10.px-5.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/img08.svg' alt="")
     .row.justify-content-center.mb-5
@@ -334,7 +331,7 @@
             | Un manual de políticas y procedimientos es una herramienta empresarial clave para cualquier organización que es muy útil si se diseña e implementa correctamente.
           li(style="margin-bottom: 2px" data-aos="fade-right")
             i.fas.fa-check-circle.t-ac
-            | Hay muchas razones para tener un manual de políticas y procedimientos, incluyendo; controles internos, cumplimiento normativo, capacitación de empleados y consistencia, por nombrar algunos.
+            | Hay muchas razones para tener un manual de políticas y procedimientos, incluyendo controles internos, cumplimiento normativo, capacitación de empleados y consistencia, por nombrar algunos.
           li(style="margin-bottom: 2px" data-aos="fade-right")
             i.fas.fa-check-circle.t-ac
             | Además de ahorrar tiempo en la determinación de los procesos, un manual de procedimientos documentado reduce los errores y mejora la eficiencia de los empleados.

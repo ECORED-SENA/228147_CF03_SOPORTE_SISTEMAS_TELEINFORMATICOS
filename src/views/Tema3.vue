@@ -179,7 +179,7 @@
             | Cuando limpie los ventiladores, especialmente los más pequeños, sostenga el ventilador o coloque algo entre las aspas del ventilador para evitar que gire. 
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
-            | Pulverizar aire comprimido en un ventilador o limpiar un ventilador con una aspiradora puede causar daños o generar una contra tensión.
+            | Pulverizar aire comprimido en un ventilador o limpiar un ventilador con una aspiradora puede causar daños o generar una contratensión.
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
             | Nunca coma ni beba cerca de la computadora.
@@ -641,6 +641,9 @@
       .col
         h3 Limpieza de ratones
     p.mb-5(data-aos="fade-right") Un <i>mouse</i> óptico o láser sucio puede hacer que el cursor del <i>mouse</i> sea difícil de mover o que se mueva de forma errática.
+    .row.justify-content-center.mb-5
+      .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
+        .h4.text-center.mb-0 Procedimiento
     .row.align-items-center.mb-5
       .col-xl-1.d-xl-flex.d-none
       .col-xl-8.col-lg-10.order-lg-1.order-2
@@ -860,7 +863,7 @@
             ul.lista-ul--color.lista-ul--separador.ms-5
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle.t-ac
-                | El Limpiador de vidrio rociado sobre una toalla de papel, nunca directamente sobre la PC, es la mejor manera de limpiar cualquier parte externa de su computadora.
+                | El limpiador de vidrio rociado sobre una toalla de papel, nunca directamente sobre la PC, es la mejor manera de limpiar cualquier parte externa de su computadora.
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle.t-ac
                 | Recuerde que los puertos en la parte delantera y trasera de la máquina son susceptibles a daños por humedad.
