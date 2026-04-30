@@ -190,6 +190,11 @@ export default {
         'un archivo temporal es creado por el <em>software</em> con el fin de contener información de forma transitoria durante el tiempo que nos encontramos creando un archivo estándar.',
     },
     {
+      termino: 'Bases de datos',
+      significado:
+        'conjunto ordenado de datos personales referentes a una persona física identificada o identificable, condicionados a criterios determinados, con independencia de la forma o modalidad de su creación, tipo de soporte, procesamiento, almacenamiento y organización.',
+    },
+    {
       termino: 'BIOS',
       significado:
         '<em> Basic Input-Output System</em>, sistema básico de entrada-salida. Programa incorporado en un chip de la placa base que se encarga de realizar las funciones básicas de manejo y configuración del ordenador.',
@@ -198,6 +203,11 @@ export default {
       termino: 'Caché',
       significado:
         'cualquier tipo de memoria "intermedia" entre dos aparatos, que acelera las comunicaciones y transmisiones de datos entre ellos. Por extensión, se aplica a la "caché de nivel 2", es decir, la que está en la placa base, entre el microprocesador y la memoria.',
+    },
+    {
+      termino: 'Código abierto',
+      significado:
+        'se refiere al código fuente del software que es abiertamente accesible y que puede ser cambiado y distribuido por cualquier persona.',
     },
     {
       termino: 'CPU',
@@ -217,7 +227,7 @@ export default {
     {
       termino: '<em>Hardware</em>',
       significado:
-        'parte física del ordenador (placa, micro, tarjetas, monitor, etc.).',
+        'conjunto de elementos físicos o materiales que constituyen una computadora o un sistema informático.',
     },
     {
       termino: '<em>Malware</em>',
@@ -237,7 +247,62 @@ export default {
     {
       termino: '<em>Software</em>',
       significado:
-        'programas de ordenador, la lógica que permite realizar tareas al <em>hardware</em> (la parte física).',
+        'programas de computadora, instrucciones o procedimientos que se ejecutan para operar y satisfacer las necesidades específicas de un usuario.',
+    },
+    {
+      termino: 'Desarrollo tecnológico',
+      significado:
+        'trabajo sistemático fundamentado en los conocimientos obtenidos por la investigación o la experiencia práctica, que se dirige a la fabricación de nuevos materiales, productos o dispositivos; a establecer nuevos procedimientos, sistemas y servicios, o a mejorar considerablemente los ya existentes.',
+    },
+    {
+      termino: 'Equipos de cómputo',
+      significado:
+        'dispositivo electrónico que almacena y procesa información para después mostrarla en una interfaz a la disposición del usuario, permite una interacción del hardware (parte tangible) con el software (parte intangible).',
+    },
+    {
+      termino: 'Licencia de <em>software</em>',
+      significado:
+        'contrato en donde el usuario acepta los términos y condiciones del fabricante para poder hacer uso del <em>software</em>.',
+    },
+    {
+      termino: 'Mantenimiento de <em>software</em>',
+      significado:
+        'es la modificación de un producto de software después de la entrega, para corregir errores, mejorar el rendimiento, u otros atributos.',
+    },
+    {
+      termino: 'Producto de <em>software</em>',
+      significado:
+        'se refiere al sistema (código fuente), documentación asociada y datos necesarios para el funcionamiento del software que se desarrolló y que se entrega a un cliente o usuario.',
+    },
+    {
+      termino: 'Pruebas de <em>software</em>',
+      significado:
+        'proceso de analizar un componente de <em>software</em> u operar un sistema que ayuda a detectar errores o defectos y a identificar la completitud o diferencias con respecto a los requerimientos y acuerdos establecidos con la finalidad de evaluar la calidad del <em>software</em>.',
+    },
+    {
+      termino: 'Redes de Computadores',
+      significado:
+        'también llamada red de ordenadores o red informática. Es un conjunto de equipos conectados por medio de cables, señales, ondas o cualquier otro método de transporte de datos, que comparten información (archivos), recursos (CD-ROM, impresoras, etc.).',
+    },
+    {
+      termino: 'Seguridad de la información',
+      significado:
+        'la capacidad de preservar la confidencialidad, integridad y disponibilidad de la información, así como la autenticidad, confiabilidad, trazabilidad y no repudio de la misma.',
+    },
+    {
+      termino: 'Servicio de autenticación',
+      significado:
+        'servicio de seguridad que verifica la identidad alegada por una entidad.',
+    },
+    {
+      termino: 'Sistema de información',
+      significado:
+        'conjunto de aplicaciones, servicios, activos de tecnología de la información u otros componentes que manejan información.',
+    },
+    {
+      termino: 'Sistema Operativo',
+      significado:
+        'un sistema operativo es el software o programa más importante que se ejecuta en un computador, nos permite usarlo y darle órdenes para que haga lo que necesitamos.',
     },
   ],
   referencias: [
