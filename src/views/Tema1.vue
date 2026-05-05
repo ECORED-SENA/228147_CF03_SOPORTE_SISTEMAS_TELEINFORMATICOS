@@ -207,7 +207,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img17-4.svg', alt='Imágen decorativa')
             .tarjeta.tarjeta--blanca.p-3(x="98%" y="81%" numero="+")
-              p.mb-0 Estos controles requerirán una contraseña de un administrador para descargar ciertos archivos y <i>software</i> a su dispositivo.
+              p.mb-0 Para mantener su #[i software] antivirus funcionando correctamente, querrá realizar actualizaciones de firmas además de actualizaciones de #[i software]. Esto asegura que su dispositivo esté protegido contra nuevos virus.
               .row
                 .col-6
                 .col-6
